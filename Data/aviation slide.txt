@@ -1,0 +1,34 @@
+Aviation Accident Data
+                  
+
+Target Audience
+Head of Aviation Division
+Non-technical business leader
+
+
+Business Problem
+The company does not have aviation experience on the safety side of things.
+Poor aircraft selection might result in financial losses because it will involve alot of maintenance and high insurance cost.
+Alao it can lead to reputational damage
+
+
+
+
+Our method: The process
+Historical aviation accident data from 1962-2023 analyzed
+Focused on:
+Aircraft manufacturers
+Aircraft models
+Injury severity and fatalities
+Used descriptive analytics and clear visualizations to assess risk
+
+
+
+Findings
+Some aircraft manufacturers have kept fatality counts per year with a great consistency.
+Certain aircraft models involved in accidents at a higher rate
+Most accidents involves injuries only so selection can occur based on risk
+
+Results
+Provides data driven results that would guide aircraft acquisition.
+It reduces safety,financial and operational risks. Lays the ground for future aviation analytics
